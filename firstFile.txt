@@ -1,5 +1,5 @@
-Java is a high-level, class-based, object-oriented programming language first released by Sun Microsystems in 1995
-Key Characteristics
+step 8 from git_1 Java is a high-level, class-based, object-oriented programming language first released by Sun Microsystems in 1995
+step 8 from git_1 Key Characteristics
 Platform Independence
 Object-Oriented 
 Robust and Secure

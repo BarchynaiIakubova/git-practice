@@ -1,0 +1,24 @@
+From 547d6a972bb0e6ead1bea2d58dc79de1203e97dc Mon Sep 17 00:00:00 2001
+From: BarchynaiIakubova <barchynai.iakubova@gmail.com>
+Date: Fri, 1 May 2026 01:55:55 +0600
+Subject: [PATCH] update firstFile step 7
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 8e66a9c..769c3ae 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-Java is a high-level, class-based, object-oriented programming language first released by Sun Microsystems in 1995
+-Key Characteristics
++from git_1 Java is a high-level, class-based, object-oriented programming language first released by Sun Microsystems in 1995
++from git_1 Key Characteristics
+ Platform Independence
+ Object-Oriented 
+ Robust and Secure
+-- 
+2.15.0
+
