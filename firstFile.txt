@@ -1,7 +1,13 @@
+ HEAD
 step 8 from git_1 Java is a high-level, class-based, object-oriented programming language first released by Sun Microsystems in 1995
 step 8 from git_1 Key Characteristics
 folder1 change line3
 folder1 change line 4
+folder2 change line 1
+folder2 change line 2
+Platform Independence
+Object-Oriented 
+ b57fd7ec308c7fc76fe515d8305bda447fbf1f20
 Robust and Secure
 Multithreaded
 Common Uses:
